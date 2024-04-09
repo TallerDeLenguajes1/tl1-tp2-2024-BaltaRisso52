@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define CANT 3
+#define CANT 5
 
 struct compu
 {

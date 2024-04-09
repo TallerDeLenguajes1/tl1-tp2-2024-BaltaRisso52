@@ -29,9 +29,7 @@ int main()
             } else
             {
                 printf("%d ", punt[i][j]);
-            }
-                        
-            
+            }   
         }
     printf("\n");
     }

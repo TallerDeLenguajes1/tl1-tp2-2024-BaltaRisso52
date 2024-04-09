@@ -1,0 +1,8 @@
+-¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+	No puedo ver el archivo tp2_1_2.c. Porque son distintas ramas de trabajo.
+
+-vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+	se diferencian claramente las ramas de trabajo.
+
+- Luego de combinar las ramas. Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+	Se nota como se unieron las ramas
